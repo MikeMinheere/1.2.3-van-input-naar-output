@@ -1,8 +1,8 @@
 print('Gegevensinvoer')
-naam = input('type hier uw naam: ')
-adres = input("type hier uw adres: ")
-postcode = input('type hier uw postcode: ')
-woonplaats = input('type hier uw woonplaats: ')
+naam = input('type hier uw naam       : ')
+adres = input("type hier uw adres      : ")
+postcode = input('type hier uw postcode   : ')
+woonplaats = input('type hier uw woonplaats : ')
 
 print('-----------------------------------')
 print()
