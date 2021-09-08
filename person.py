@@ -1,12 +1,14 @@
-print("---------------------------------------")
-print("|")
-Naam = 'Mike Minheere'
-print('| Naam       : ' + Naam)
-Adres = 'Stationsstraat 9'
-print('| Adres      : ' + Adres)
-Postcode = '3371 AX'
-print('| Postcode   : ' + Postcode)
-Woonplaats = 'Hardinxveld-Giessendam'
-print('| Woonplaats : ' + Woonplaats)
-print("|")
-print("---------------------------------------")
+print('Gegevensinvoer')
+naam = input('type hier uw naam: ')
+adres = input("type hier uw adres: ")
+postcode = input('type hier uw postcode: ')
+woonplaats = input('type hier uw woonplaats: ')
+
+print('-----------------------------------')
+print()
+print('Naam       : ' + naam)
+print('adres      : ' + adres)
+print('postcode   : ' + postcode)
+print('woonplaats : ' + woonplaats)
+print()
+print('-----------------------------------')
